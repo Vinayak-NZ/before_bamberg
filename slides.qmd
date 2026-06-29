@@ -1,0 +1,104 @@
+---
+title: "Before Bamberg"
+format:
+  revealjs:
+    theme: black
+    slide-number: true
+    transition: slide
+    navigation-mode: grid
+---
+
+# Reasoning
+
+## Change of plans and why
+
+- Original plan
+- What changed
+- Why this?
+
+## What we cover today
+
+- My road to Bamberg
+- Co-creating digital health interventions
+- What next?
+
+# Psych
+
+## Why psych?
+
+- Failed pre-med
+- Wanted to work with people
+
+## What I did
+
+- Stats
+- Health psychology
+- Positive psychology
+
+# Stats
+
+## Why stats?
+
+- Failed in getting registered as a psychotherapist
+- Loved Stats
+
+## What I did
+
+- In-house methodology consultant
+- Sample design
+- Data processing, analysis & visualisation
+- Statistical programming
+
+# Psych — take two
+
+## Why return?
+
+- I predicted failure
+- Wanted to apply stats in a psych setting
+
+## The MSCA actions
+
+- Supported my research
+- Evidence based co-creation for public health
+
+# Co-creating digital health interventions
+
+## Digital health interventions
+
+- Not making the landing (gorge)
+
+## Health behaviour change
+
+- More theory -> more problems
+
+## Co-creation
+
+- The Wild Wild West
+
+## The solution
+
+- Incorporate end users and stakeholders
+- A flexible behaviour change framework
+- Make co-creation more trustworthy
+
+## The behaviour change framework
+
+## Making co-creation more trustworthy
+
+# The Now
+
+## What drives me?
+
+- PhD Wall
+
+## Looking forward
+
+- Cumulative health behaviour change research
+- Understanding & reporting on uncertainty
+- Making our work more accessible
+
+## What I don’t know?
+
+- Bayesian approach
+- Experimental research
+- Art & Science

@@ -1,0 +1,28 @@
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# renv
+renv/library/
+renv/staging/
+renv/cache/
+
+# Quarto
+.quarto/
+_freeze/
+**/*.quarto_ipynb
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+Desktop.ini
+.AppleDouble
+.LSOverride
+
+# Backup files
+*.orig
+
+# Caches
+.cache/
