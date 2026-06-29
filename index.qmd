@@ -97,8 +97,14 @@ format:
 - Understanding & reporting on uncertainty
 - Making our work more accessible
 
-## What I don’t know?
+## What I want to learn?
 
 - Bayesian approach
 - Experimental research
 - Art & Science
+
+## Where do our paths cross?
+
+- Something you can teach me
+- Something I can teach you
+- Something we can work together on
