@@ -22,6 +22,10 @@ format:
 - Co-creating digital health interventions
 - What next?
 
+## Follow along (or keep for later)
+
+![](images/image_00.png){fig-align="center"}
+
 # Psych
 
 ## Why psych?
@@ -56,24 +60,32 @@ format:
 - I predicted failure
 - Wanted to apply stats in a psych setting
 
-## The MSCA actions
+## The Marie Skłodowska-Curie Actions
 
 - Supported my research
 - Evidence based co-creation for public health
+- [MSCA Funding](https://marie-sklodowska-curie-actions.ec.europa.eu)
+- [Health CASCADE](https://healthcascade.eu)
 
 # Co-creating digital health interventions
 
-## Digital health interventions
+## Digital health interventions {background-image="images/image_01.jpg"}
 
-- Not making the landing (gorge)
+::: footer
+*Photo by <a href="https://unsplash.com/@fiens?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Fien Schelstraete</a> on <a href="https://unsplash.com/photos/a-man-jumping-in-the-air-Ccr9IoqzEXU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>*
+:::
 
-## Health behaviour change
+## Health behaviour change {background-image="images/image_02.jpg"}
 
-- More theory -> more problems
+::: footer
+*Photo by <a href="https://unsplash.com/@nechirwank?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nechirwan Kavian</a> on <a href="https://unsplash.com/photos/assorted-books-on-brown-wooden-shelf-T9_TDTbVo98?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>*
+:::
 
-## Co-creation
+## Co-creation {background-image="images/image_03.jpg" background-opacity="0.6"}
 
-- The Wild Wild West
+::: footer
+*Photo by <a href="https://unsplash.com/@domsdigitals?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Dominique Hicks</a> on <a href="https://unsplash.com/photos/a-dirt-road-in-front-of-a-red-building-yW9ko_3OIyA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>*
+:::
 
 ## The solution
 
@@ -81,15 +93,69 @@ format:
 - A flexible behaviour change framework
 - Make co-creation more trustworthy
 
+## The behaviour change framework {background-image="images/image_04.png" background-opacity="0.6"}
+
+::: footer
+*Photo by <a href="https://unsplash.com/@domsdigitals?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Dominique Hicks</a> on <a href="https://unsplash.com/photos/a-dirt-road-in-front-of-a-red-building-yW9ko_3OIyA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>*
+:::
+
 ## The behaviour change framework
+
+- [Behaviour Change Wheel](https://www.behaviourchangewheel.com)
+- [Training](http://www.bct-taxonomy.com)
+- [Tools & Techniques](https://www.ucl.ac.uk/brain-sciences/behaviour-change/resources/advancing-behavioural-science)
+
+## Making co-creation more trustworthy {background-image="images/image_06.png" background-opacity="0.6"}
+
+::: footer
+*Photo by <a href="https://unsplash.com/@pawelskor?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Paul Skorupskas</a> on <a href="https://unsplash.com/photos/person-holding-camera-lens-7KLa-xLbSXA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>*
+:::
 
 ## Making co-creation more trustworthy
 
+- [Defining co-creation](https://www.sciencedirect.com/science/article/pii/S0033350625003683?__cf_chl_f_tk=JZ63rdp9A8OY79qk7QNLAP86v1UZsFlQvDKdpGqnjX4-1782803275-1.0.1.1-_oM93EpJ5K4JOgVdj1ybVW71pKe8KvHohhr74waGMoM)
+- [Co-creation methods selector](https://ccmethodsselector.lovable.app)
+- [Evaluating your co-creation process](https://pubmed.ncbi.nlm.nih.gov/40449476/)
+
+## My PhD
+
+- How to design digital behaviour change interventions?
+- How to build digital behaviour change interventions?
+- How to evaluate digital behaviour change interventions?
+
+## Designing digital behaviour change interventions
+
+- Who -> Teams that developed digital health tools
+- What -> Identifying facilitators and challenges to the co-creation process
+- How -> Case study methodology
+
+## Designing digital behaviour change interventions
+
+- Who -> Students at an international university in Germany
+- What -> Exploring needs and putting together a design specification for a digital behaviour change intervention
+- How -> Workshops
+
+## Building digital behaviour change interventions
+
+- Who -> Users (expectant mothers) of a web-app that was developed to facilitate doctor-patient communication
+- What -> Monitor the build to see if iterations (based on end user and stakeholder) feedback were being received more positively
+- How -> Sentiment analysis + User engagement measures of version 1 vs 2
+
+## Evaluating digital behaviour change interventions
+
+- Who -> Users (heart-event patients) of a native-app that was developed to facilitate cardiovascular rehabilitation
+- What -> Compare different missingness strategies with respect to bias and variance of estimates
+- How -> Synthetic data + Simulation
+
+## Evaluating digital behaviour change interventions
+
+- Who -> Clinic that used virtual training to help expectant mothers work more effectively with midwives and doctors
+- What -> Compare different models in predicting costs of patient care
+- How -> Training and Test split
+
 # The Now
 
-## What drives me?
-
-- PhD Wall
+## What drives me? {background-image="images/image_05.png" background-opacity="0.6"}
 
 ## Looking forward
 
