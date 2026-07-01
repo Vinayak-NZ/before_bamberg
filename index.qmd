@@ -105,7 +105,7 @@ format:
 - [Training](http://www.bct-taxonomy.com)
 - [Tools & Techniques](https://www.ucl.ac.uk/brain-sciences/behaviour-change/resources/advancing-behavioural-science)
 
-## Making co-creation more trustworthy {background-image="images/image_06.png" background-opacity="0.6"}
+## Making co-creation more trustworthy {background-image="images/image_06.jpg" background-opacity="0.6"}
 
 ::: footer
 *Photo by <a href="https://unsplash.com/@pawelskor?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Paul Skorupskas</a> on <a href="https://unsplash.com/photos/person-holding-camera-lens-7KLa-xLbSXA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>*
@@ -155,7 +155,7 @@ format:
 
 # The Now
 
-## What drives me? {background-image="images/image_05.png" background-opacity="0.6"}
+## What drives me? {background-image="images/image_05.jpeg" background-opacity="0.6"}
 
 ## Looking forward
 
